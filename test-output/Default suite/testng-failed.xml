@@ -5,7 +5,7 @@
     <classes>
       <class name="com.MacCosmos.MacCosmetics">
         <methods>
-          <include name="loginwithCorrCredentials"/>
+          <include name="searchInmailinator"/>
         </methods>
       </class> <!-- com.MacCosmos.MacCosmetics -->
     </classes>
